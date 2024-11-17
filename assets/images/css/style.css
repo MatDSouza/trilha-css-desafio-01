@@ -1,0 +1,73 @@
+.banner {
+    background-image:url('/assets/images/banner.png');
+    text-align: center; 
+}
+
+.module{
+    color: #eaedee; 
+    width: Fixed (535px)px;
+    height: Hug (51px)px;
+    padding: 16px 127px 16px 127px;
+    gap: 10px;
+    border-radius: 57px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    border-color: #33A8DB;
+    opacity: 0px;
+
+}
+
+
+
+#professional-challenges {
+    background-color: #353434;
+    text-align: center;
+    
+}
+
+#course-content {
+    background: #353434;
+    text-align: center;
+    color: #eaedee;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#transform-world {
+    background-image:url('/assets/images/woman-code.png');
+    text-align: left;
+    height: 500px;
+}
+
+#alinhamento {
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    height: 363px;
+    top: 1138px;
+    gap: 0px;
+    border: 1px 1px 1px 0px;
+    opacity: 0px;
+
+}
+
+#titulo {
+    color:#33A8DB ;
+}
+
+#botao {
+    border-color: #33A8DB;
+    color: #33A8DB;
+    width: Fixed (326px)px;
+    height: Hug (57px)px;
+    top: 473px;
+    left: 557px;
+    padding: 19px 91px 19px 91px;
+    gap: 31px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+
+}
+#modules-list {
+    color: white;
+}
